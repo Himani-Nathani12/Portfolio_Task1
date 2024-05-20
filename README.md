@@ -1,3 +1,4 @@
+
 # Portfolio_Task1
 Feature:
 1. Responsive Design: Ensures optimal viewing experiences across different devices and screen sizes.
@@ -12,3 +13,4 @@ Get Started:
 1. Open index.html in your preferred web browser to view the site locally.
 
 --Contributions, issues, and feature requests are welcome! Thank You.
+
